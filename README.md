@@ -1,6 +1,8 @@
-<h1 align="center">I'm Allan Vargas Torres 👋</h1>
+<h1 align="center">Hi, I'm Allan Vargas Torres</h1>
 
-<h3 align="center">Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Mobile+Apps;AI+%26+Cloud+Integrations;React+%7C+Next.js+%7C+FastAPI" alt="Typing SVG" />
+</p>
 
 <hr>
 
@@ -68,6 +70,18 @@
 
 <hr>
 
+<h2 align="center">📌 Featured Projects</h2>
+
+| Project | Description | Role |
+|---------|-------------|------|
+| **Enterprise Inventory & Repairs System** | Complete inventory, billing, sales, and equipment repair system with real business modules. | Fullstack |
+| **Rutica – Geolocated Social Network** | Location-based social network with events, businesses, promotions, interactive maps, real-time features, and premium system. | Fullstack |
+| **AI Plant Identification App** | Mobile app that identifies plants using AI, with a personalized virtual garden and cloud storage. | Mobile |
+| **Enterprise Oracle Database System** | Relational database with 57+ tables connecting doctors with clinics; modeling, normalization, and optimization. | DB Designer |
+| **Web & E-commerce Projects** | Responsive landing pages, dashboards, authentication, and API integrations with a focus on UI/UX. | Frontend / Fullstack |
+
+<hr>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -81,7 +95,7 @@
 
 <p align="center">
   <a href="mailto:alanvartor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://discord.com/users/TU-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/alana2612"><img src="https://img.shields.io/badge/Discord-alana2612-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <p align="center">
