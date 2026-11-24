@@ -2,7 +2,7 @@
 <p align="center"><b>Full Stack Developer</b> · TypeScript · Python · Costa Rica 🇨🇷 · Open to remote</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/allanvargastorres/">LinkedIn</a> · <a href="mailto:alanvartor@gmail.com">Email</a> · <a href="https://www.tytsoluciones.net">Live project</a>
+  <a href="https://avt.codes"><b>Portfolio: avt.codes</b></a> · <a href="https://www.linkedin.com/in/allanvargastorres/">LinkedIn</a> · <a href="mailto:alanvartor@gmail.com">Email</a> · <a href="https://www.tytsoluciones.net">Live project</a>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### About me
 
 - 🎓 **Information Systems Engineering** student at Universidad Nacional de Costa Rica (coursework complete, graduating May 2027).
-- 💼 Software development internship at a software company: accounting-module rules and a gap analysis against an international accounting standard for a **modular ERP**, plus security and tax-compliance fixes on an **e-invoicing SaaS**.
+- 💼 Software development internship at Argana: accounting-module rules and a gap analysis against an international accounting standard for a **modular ERP**, plus security and tax-compliance fixes on an **e-invoicing SaaS**.
 - 🚀 Two systems in production for clients: an **Odoo ERP** for a tailoring shop and a **Next.js** website with its admin dashboard.
 - 🧪 I care about shipping work that is tested, documented, and deployed: TDD, CI, Docker, and Linux servers.
 - 🤖 I use AI coding assistants daily; every change goes through tests and my own review.
@@ -26,7 +26,7 @@
 | **E-invoicing SaaS** (internship) | Multi-tenant e-invoicing platform for Costa Rica | Wrote a full-repository audit and fixed its 17 findings (8 tax-compliance, 9 business-logic) before launch · RLS tenant isolation proven in CI |
 | **[PlanTica](https://github.com/Allan2612/plantApp)** | Plant identification app | Expo · on-device pre-check (TensorFlow.js) · FastAPI + hosted vision LLM · Firebase · solo project |
 
-<sub>Client and internship code is private; happy to walk through it in an interview.</sub>
+<sub>Client and internship code is private; the case studies on <a href="https://avt.codes">avt.codes</a> describe the work, and I'm happy to walk through it in an interview.</sub>
 
 ### Tech I use
 
